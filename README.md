@@ -2,8 +2,9 @@
 
 ### About
 
-- Android application showing recipes based on searching keyword.
-
+- Build  a mobile application with React Native that using Web API service.
+- It allows users to find up to 10 recipes related on the searching keyword.
+- Designed the app using ListView, TextInput, Button components with Felxbox layout. 
 - **Skils : React Native, Expo, Node.js, API**
 
 <hr/>
